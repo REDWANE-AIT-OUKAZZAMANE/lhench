@@ -12,7 +12,7 @@ A classic Snake Game built with React and TypeScript. Play the game and try to c
 
 ## 🚀 Live Demo
 
-[Play the Snake Game](https://your-deployment-url.vercel.app)
+[Play the Snake Game](https://lhench.vercel.app/)
 
 ## 🛠️ Technologies Used
 
