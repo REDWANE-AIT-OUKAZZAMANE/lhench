@@ -42,7 +42,7 @@ A classic Snake Game built with React and TypeScript. Play the game and try to c
 
    ```bash
    git clone https://github.com/REDWANE-AIT-OUKAZZAMANE/lhench
-   cd snake-game
+   cd lhench
    ```
 
 2. Install dependencies
